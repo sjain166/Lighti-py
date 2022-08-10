@@ -27,4 +27,6 @@ To make it look like a visualizer I created a 15X15 matrix using Fusion360 and p
 Folded the LED strips to match the matrix leaving 5 pixel gap at every fold.
 Which Looks like this :-
 
+![board](https://user-images.githubusercontent.com/85589093/184042646-ee736eca-52c9-49d9-a1e6-58339e5da5d8.jpg)
+
 
