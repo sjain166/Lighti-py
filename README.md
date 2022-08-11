@@ -22,6 +22,8 @@ Music Visualizer using WS2812B LED strips and Arduino UNO
 3. Download the visualizer.ino
 4. Open the File and upload the Code.
 
+[https://youtube.com/shorts/J6PECU5rD-c?feature=share](url)
+
 ### Optional 
 To make it look like a visualizer I created a 15X15 matrix using Fusion360 and printed using CR10 3D-Printer. 
 Folded the LED strips to match the matrix leaving 5 pixel gap at every fold.
